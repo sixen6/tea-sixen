@@ -1,0 +1,27 @@
+{
+  "name": "tea-sixen",
+  "version": "1.0.0",
+  "description": "Demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sixen6/tea-sixen.git"
+  },
+  "dependencies": {
+    "tea-serg": "1.0.0",
+    "tea-onef": "1.0.0",
+    "tea-kasy": "1.0.0",
+    "tea-start": "1.0.0",
+    "tea-rep": "1.0.0",
+    "tea-fivek": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixen6/tea-sixen/issues"
+  },
+  "homepage": "https://github.com/sixen6/tea-sixen#readme"
+}
